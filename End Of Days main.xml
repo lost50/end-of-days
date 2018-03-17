@@ -1,18 +1,20 @@
-<xml>
-  <dir>
-    <title>Timber</title>
-    <link>https://raw.githubusercontent.com/beast58/timber/master/timber.xml</link>
-  </dir>
+<dir>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20movies.xml</link>
+</dir>
 
-  <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
-  </dir>
-</xml>
+<dir>
+   <title>Tv</title>
+   <link></link>
+</dir>
 
+<dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
 
-  <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
-  </dir>
-</xml>
+</xml><plugin>
+<name>settings</name>
+<link>plugin://plugin.video.end/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>

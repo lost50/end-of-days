@@ -19,16 +19,18 @@
 </dir>
 
 <dir>
-<title>B movies</title>
-<tmdb>list/</tmdb>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+  
+<dir>
+	<title>IMDB Action TV Shows</title>
+	<imdburl>genres/action</imdburl>
+	<thumbnail></thumbnail>
 </dir>
 
 <dir>
-   <title></title>
-   <link></link>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb> 
 </dir>
 
-<dir>
-   <title></title>
-   <link></link>
-</dir>
