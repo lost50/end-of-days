@@ -1,0 +1,30 @@
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+<title>IMDB NEW TV Shows</title>
+<imdburl>tvshows/new</imdburl>
+</dir>
+ 
+<dir>
+    <title>Genre Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/genre_tv.xml</link>
+ </dir>
+
+<dir>
+    <title>Networks</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/networks.xml</link>
+ </dir>
+
+  <dir>
+<title>Search IMDB TV</title>
+<imdburl>searchseries</imdburl>
+<thumbnail></thumbnail>
+</dir>
