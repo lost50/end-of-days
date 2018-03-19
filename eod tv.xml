@@ -4,6 +4,16 @@
 </dir>
 
 <dir>
+  <title>EOD TV</title>
+  <tmdb>list/51236</tmdb>
+</dir>
+
+<dir>
+  <title>TV Game Shows</title>
+  <tmdb>list/51238</tmdb>
+</dir>
+
+<dir>
   <title>TMDB Top Rated</title>
   <tmdb>tv/top_rated</tmdb>
 </dir>
