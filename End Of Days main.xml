@@ -7,6 +7,10 @@
    <title>Tv</title>
    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20tv.xml</link>
 </dir>
+<dir>
+<title>S TMDB</title>
+<tmdb>list/https://www.themoviedb.org/list/51107</tmdb>
+</dir>
 
 <dir>
 <title>Search TMDB</title>
