@@ -19,10 +19,15 @@
 </dir>
 
 <dir>
-<title>IMDB NEW TV Shows</title>
-<imdburl>tvshows/new</imdburl>
+  <title>Sci-Fi & Fantasy</title>
+  <tmdb>genre/shows/10765</tmdb>
 </dir>
- 
+
+<dir>
+  <title>War & Politics</title>
+  <tmdb>genre/shows/10768</tmdb>
+</dir>
+
 <dir>
     <title>Genre Tv</title>
     <link>https://raw.githubusercontent.com/lost50/end-of-days/master/genre_tv.xml</link>
