@@ -7,9 +7,15 @@
    <title>Tv</title>
    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20tv.xml</link>
 </dir>
+
 <dir>
-<title>S TMDB</title>
+<title>Upcoming Movies</title>
 <tmdb>list/https://www.themoviedb.org/list/51107</tmdb>
+</dir>
+
+<dir>
+   <title>Movies boxset</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/myboxset.xml</link>
 </dir>
 
 <dir>
