@@ -9,6 +9,16 @@
 </dir>
 
 <dir>
+<title>animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+
+<dir>
+<title>Beast list</title>
+<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
+</dir>
+
+<dir>
   <title>TV Game Shows</title>
   <tmdb>list/51238</tmdb>
 </dir>

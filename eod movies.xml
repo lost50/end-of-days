@@ -9,10 +9,45 @@
 </dir>
  
 <dir>
-      <title>TMDB Now Playing</title>
-      <tmdb>movies/now_playing</tmdb>
+    <title>TMDB Now Playing</title>
+    <tmdb>movies/now_playing</tmdb>
 </dir>
-  
+
+<dir>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/lost50/timber/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>mythology</title>
+<tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+</dir>
+
+ <dir>
+<title>EOD Gangsta</title>
+<tmdb>list/51623</tmdb>
+</dir>
+
+ <dir>
+<title>EOD Her Picks</title>
+<tmdb>list/51606</tmdb>
+</dir>
+
+<dir>
+<title>EOD Sports Movies</title>
+<tmdb>list/51638</tmdb>
+</dir>
+
+<dir>
+<title>EOD Drama/Action/Thriller</title>
+<tmdb>list/51603</tmdb>
+</dir>
+
+<dir>
+<title>EOD Kids</title>
+<tmdb>list/51604</tmdb>
+</dir>
+
 <dir>
 <title>Action movies</title>
 <tmdb>list/47583</tmdb>
