@@ -1,0 +1,29 @@
+<plugin>
+<title>Breaking In</title>
+<link>https://youtu.be/g5CNiarSdbU</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Uncle Drew</title>
+<link>https://youtu.be/Uv1xscwDtIQ</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
