@@ -6,24 +6,24 @@
 
 <plugin>
 <title>Uncle Drew</title>
-<link>https://youtu.be/Uv1xscwDtIQ</link>
+<link>https://www.youtube.com/watch?v=SMoAmp-X7mg</link>
 <thumbnail></thumbnail>
 </plugin>
 
 <plugin>
-<title></title>
-<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<title>Uncle Drew</title>
+<link>plugin://plugin.video.youtube/playlist/https://www.youtube.com/watch?v=SMoAmp-X7mg/</link>
 <thumbnail></thumbnail>
 </plugin>
 
 <plugin>
-<title></title>
-<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<title>Uncle Drew</title>
+<link>plugin://plugin.video.youtube/playlist/watch?v=SMoAmp-X7mg/</link>
 <thumbnail></thumbnail>
 </plugin>
 
 <plugin>
-<title></title>
-<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<title>Uncle Drew</title>
+<link>plugin://plugin.video.youtube/https://www.youtube.com/watch?v=C9aAWKTjG2A/</link>
 <thumbnail></thumbnail>
 </plugin>
