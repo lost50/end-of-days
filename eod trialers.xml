@@ -2,6 +2,14 @@
   <title>uncle drew</title>
   <link>https://www.youtube.com/watch?v=SMoAmp-X7mg</link>
 </dir>
+<plugin>
+  <title>uncle drew</title>
+  <link>https://www.youtube.com/watch?v=SMoAmp-X7mg</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</plugin>
 
 <dir>
   <title>Honey:Rise Up and Dance</title>
