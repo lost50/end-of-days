@@ -23,24 +23,19 @@
 <tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
 </dir>
 
+<dir>
+<title>EOD March</title>
+<tmdb>list/https://www.themoviedb.org/list/51732</tmdb>
+</dir>
+
  <dir>
 <title>EOD Gangsta</title>
 <tmdb>list/51623</tmdb>
 </dir>
 
  <dir>
-<title>I.C.U Gangsta</title>
-<tmdb>list/https://www.themoviedb.org/list/51660</tmdb>
-</dir>
-
- <dir>
 <title>EOD Her Picks</title>
 <tmdb>list/51606</tmdb>
-</dir>
-
- <dir>
-<title>eod chick films</title>
-<tmdb>list/51662</tmdb>
 </dir>
 
 <dir>
@@ -64,7 +59,7 @@
 </dir>
 
 <dir>
-<title>Action movies</title>
+<title>Action movies </title>
 <tmdb>list/47583</tmdb>
 </dir>
 
