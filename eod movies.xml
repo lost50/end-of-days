@@ -12,7 +12,10 @@
     <title>TMDB Now Playing</title>
     <tmdb>movies/now_playing</tmdb>
 </dir>
-
+ <dir>
+    <title>UTube</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20utub.xml</link>
+  </dir>
 <dir>
 <title>DC</title>
 <link>https://raw.githubusercontent.com/lost50/timber/master/DC.xml</link>
