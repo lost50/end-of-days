@@ -12,6 +12,19 @@
     <title>TMDB Now Playing</title>
     <tmdb>movies/now_playing</tmdb>
 </dir>
+
+ 
+  <dir>
+    <title>dir movies</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/direct%20movie%20links.xml</link>
+  </dir>
+
+  
+  <dir>
+    <title>movie trialers</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/movie%20trialers.xml</link>
+  </dir>
+ 
  <dir>
     <title>UTube</title>
     <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20trialers.xml</link>
